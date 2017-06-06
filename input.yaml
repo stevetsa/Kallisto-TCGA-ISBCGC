@@ -1,6 +1,6 @@
 TARGZ:
   class: File
-  path: ../temp/UNCID_2536692.58746677-c72b-4f75-bf2b-d4428d58aec5.140424_UNC13-SN749_0344_AC3WUKACXX_6_TTAGGC.tar.gz
+  path: ../temp/sequencingfile.tar.gz
 IDXNAME: transcriptome.idx
 CDNA: 
   class: File
