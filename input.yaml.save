@@ -1,0 +1,7 @@
+TARGZ:
+  class: File
+  path: gs://5aa919de-0aa0-cccc-bbbb-aaaaa/tcga/COAD/RNA/RNA-Seq/CCCC/ILLUMINA/File1.tar.gz
+IDXNAME: transcriptome.idx
+CDNA: 
+  class: File
+  path: gs://kallisto2/Homo_sapiens.GRCh38.cdna.all.fa
